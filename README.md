@@ -1,18 +1,18 @@
 # pyAT.py - AT Commands Handler
-##pyAT is a simple application which provides a interface to communicate with your mobile device or smartwatch via bluetooth
+## pyAT is a simple application which provides a interface to communicate with your mobile device or smartwatch via bluetooth
 ![pyAT](https://hddananjaya.files.wordpress.com/2016/12/1.png)
 
 [+] Port: means the serial port that device connected with.
 
 Access 'Device Manger' to see all available ports in your computer now.
 
-###Required:
+### Required:
    Pyserial module
 
-###Operating System:
+### Operating System:
    Best results in windows environment 
 
-###Tested with: 
+### Tested with: 
 Several models of smartphones and smartwatches
 
 
